@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Lenin</h1>
+<h1 align="center">Hi 👋, I'm Lenin Muñoz</h1>
 <h3 align="center">A passionate backend developer from Colombia</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lenin2611" alt="lenin2611" /></a> </p>
@@ -11,7 +11,6 @@
 <p align="left">
 <a href="https://twitter.com/@leninm2611" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@leninm2611" height="30" width="40" /></a>
 <a href="https://instagram.com/leninsmunoz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="leninsmunoz" height="30" width="40" /></a>
-<a href="https://discord.gg/Lenin2611" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Lenin2611" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
