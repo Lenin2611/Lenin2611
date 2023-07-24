@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lenin2611" alt="lenin2611" /></a> </p>
 
-- 🌱 I’m currently learning **HTML, CSS, JavaScrypt, Bootstrap, c#**
+- 🌱 I’m currently learning **HTML, CSS, JavaScript, Bootstrap, c#**
 
 - 📫 How to reach me **leninsantiago2611@gmail.com**
 
