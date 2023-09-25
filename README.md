@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lenin2611&label=Profile%20views&color=0e75b6&style=flat" alt="lenin2611" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lenin2611" alt="lenin2611" /></a> </p>
-
 - 🌱 I’m currently learning **C#, .NET**
 
 - 📫 How to reach me **leninsantiago2611@gmail.com**
